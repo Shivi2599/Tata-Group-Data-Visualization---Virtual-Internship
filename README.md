@@ -131,7 +131,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** The purpose of this visual is to understand **order distribution trends throughout the day.** We can identify high-traffic hours, peak hours. Additionally, it provides insights into customer behavior as well.
 
-![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
+  ![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
 
 ### Findings
 
