@@ -90,14 +90,50 @@ After the data was prepared, I created the following visualizations using **Powe
 
 ##### Visual 1: Monthly Revenue for 2011 (CEO Request)
 
-The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+**Description:** The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+- **Purpose:** To help the CEO understand monthly revenue fluctuations and identify peak periods.
+
+  ![Screenshot 2024-09-06 182341](https://github.com/user-attachments/assets/887b0845-2b26-4e98-a23b-b1692de52893)
 
 
+#### Visual 2: Top 10 Countries by Revenue and Quantity Sold (CMO Request)
 
+**Description:** The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The United Kingdom was excluded as per the request.
 
+- **Purpose:** To analyze which countries drive the highest revenue and assess the quantity sold in those regions.
+  
+  ![Screenshot 2024-09-06 190327](https://github.com/user-attachments/assets/c4e2ec72-7155-4288-a416-4b9e32fbd37d)
 
+#### Visual 3: Top 10 Customers by Revenue (CMO Request)
 
+**Description:** The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
+- **Purpose:** To help the CMO target high-revenue customers and ensure their satisfaction to foster continued business.
+
+![Screenshot 2024-09-06 190346](https://github.com/user-attachments/assets/750d0e1f-bad7-448d-a206-656eed974040)
+
+#### Visual 4: Product Demand by Country (CEO Request)
+
+**Description:** The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. The data is presented in a single view to easily identify regions with high demand, aiding in the expansion strategy.  There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+- **Purpose:** To assist the CEO in identifying countries with the greatest demand for the company’s products.
+  
+![Screenshot 2024-09-06 190406](https://github.com/user-attachments/assets/5458a5be-a264-488f-a8c8-2daf0ebda734)
+
+#### Bonus Visual - Total Orders over Time
+
+- **Purpose:** The purpose of this visual is to understand **order distribution trends throughout the day.** We can identify high-traffic hours, peak hours. Additionally, it provides insights into customer behavior as well.
+
+![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
+
+### Task 4 - Communicating Insights and Analysis
+
+#### Task Overview
+
+In this task, I developed a video presentation that outlines the key findings from the data analysis conducted in the previous tasks. The purpose of this video is to present my insights to the CEO and CMO, addressing the four questions they posed.
+
+The Video of this presentation can be found in  the files uploaded to this repository. Please check the **"Files"** section for the video file.
 
 
 
