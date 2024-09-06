@@ -117,7 +117,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To help the CMO target high-revenue customers and ensure their satisfaction to foster continued business.
 
-![Screenshot 2024-09-06 190346](https://github.com/user-attachments/assets/750d0e1f-bad7-448d-a206-656eed974040)
+  ![Screenshot 2024-09-06 190346](https://github.com/user-attachments/assets/750d0e1f-bad7-448d-a206-656eed974040)
 
 #### Visual 4: Global Product Demand by Country (CEO Request)
 
@@ -125,7 +125,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 - **Purpose:** To assist the CEO in identifying countries with the greatest demand for the company’s products.
   
-![Screenshot 2024-09-06 190406](https://github.com/user-attachments/assets/5458a5be-a264-488f-a8c8-2daf0ebda734)
+  ![Screenshot 2024-09-06 190406](https://github.com/user-attachments/assets/5458a5be-a264-488f-a8c8-2daf0ebda734)
 
 #### Bonus Visual - Total Orders over Time
 
