@@ -12,8 +12,10 @@ The internship tasks were designed to simulate real-world business scenarios, re
 - [Background Information](#background-information)
 - [Task 1 - Framing the Business Scenario](#task-1---framing-the-business-scenario)
 - [Task 2 - Creating Effective Visuals](#task-2---creating-effective-visuals)
-- [Task 3 - Communicating Insights and Analysis](#task-3---communicating-insights-and-analysis)
-- 
+- [Findings](#findings)
+- [Report](#final-report)
+- [Conclusion](#conclusion)
+  
 ### Project Overview
 
 This repository showcases my solutions to the tasks in the Tata Group Virtual Internship program. Each task is aimed at improving analytical decision-making using clean and interactive data visualizations.
@@ -118,7 +120,7 @@ After the data was prepared, I created the following visualizations using **Powe
 
 ![Screenshot 2024-09-06 190346](https://github.com/user-attachments/assets/750d0e1f-bad7-448d-a206-656eed974040)
 
-#### Visual 4: Product Demand by Country (CEO Request)
+#### Visual 4: Global Product Demand by Country (CEO Request)
 
 **Description:** The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. The data is presented in a single view to easily identify regions with high demand, aiding in the expansion strategy.  There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
@@ -132,15 +134,33 @@ After the data was prepared, I created the following visualizations using **Powe
 
 ![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
 
-### Task 3 - Communicating Insights and Analysis
+### Findings
 
-#### Task Overview
+- **Monthly Revenue for 2011**
+  - **Seasonal Peaks:** We saw significant revenue peaks in March, May, and November.
+  - **Highest Revenue:** November stands out with highest revenue reaching approximately $1.20 millions.
+  - **Year-End Drop:** Ther is a noticeable drop in December.
+    
+- **Top 10 Countries by Revenue and Quantity Sold**
+  - Countries like Germany and France show higher total revenue compared to quantity sold, indicating there might be purchasing higher-priced products.
+  - Netherlands leads the pack in both revenue and quantity sold.
+  - Countries like Japan and Sweden aren't performing well, which might present opportunities for growth.
+    
+- **Global Product Demand by Country**
+  - North America and parts of Europe stand out with high demands, as indicated by larger circles.
+  - Regions like Africa and South America show samller circles, suggesting potential growth opportunities.
+    
+- **Total Orders over Time**
+  - Highest number of orders are around midday i.e. between 12PM to 2PM.
+  - The number of orders fluctuates throughout the day.
+    
+### Final Report 
 
-In this task, I developed a video presentation that outlines the key findings from the data analysis conducted in the previous tasks. The purpose of this video is to present my insights to the CEO and CMO, addressing the four questions they posed.
+The finl report can be found in the files uploaded to this repository.
 
-The Video of this presentation can be found in the files uploaded to this repository. Please check the **"Files"** section for the video file.
+### Conclusion
 
-
+This project demonstrates not only my technical skills in data visualization but also my commitment to delivering high-quality, actionable insights.
 
 
 
