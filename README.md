@@ -7,15 +7,20 @@ The internship tasks were designed to simulate real-world business scenarios, re
 ## Table of Contents 
 
 - [Project Overview](#project-overview)
+- [Dataset Used](#dataset-used)
 - [Tools Used](#tools-used)
 - [Background Information](#background-information)
 - [Task 1 - Framing the Business Scenario](#task-1---framing-the-business-scenario)
 - [Task 2 - Creating Effective Visuals](#task-2---creating-effective-visuals)
-
+- [Task 3 - Communicating Insights and Analysis](#task-3---communicating-insights-and-analysis)
+- 
 ### Project Overview
 
 This repository showcases my solutions to the tasks in the Tata Group Virtual Internship program. Each task is aimed at improving analytical decision-making using clean and interactive data visualizations.
 
+### Dataset Used 
+
+The primary dataset used for this analysis can be found in the files uploaded to this repository. 
 
 ### Tools Used
 
@@ -127,13 +132,13 @@ After the data was prepared, I created the following visualizations using **Powe
 
 ![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
 
-### Task 4 - Communicating Insights and Analysis
+### Task 3 - Communicating Insights and Analysis
 
 #### Task Overview
 
 In this task, I developed a video presentation that outlines the key findings from the data analysis conducted in the previous tasks. The purpose of this video is to present my insights to the CEO and CMO, addressing the four questions they posed.
 
-The Video of this presentation can be found in  the files uploaded to this repository. Please check the **"Files"** section for the video file.
+The Video of this presentation can be found in the files uploaded to this repository. Please check the **"Files"** section for the video file.
 
 
 
