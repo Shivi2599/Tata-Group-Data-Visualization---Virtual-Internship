@@ -13,7 +13,6 @@ The internship tasks were designed to simulate real-world business scenarios, re
 - [Task 1 - Framing the Business Scenario](#task-1---framing-the-business-scenario)
 - [Task 2 - Creating Effective Visuals](#task-2---creating-effective-visuals)
 - [Findings](#findings)
-- [Report](#final-report)
 - [Conclusion](#conclusion)
   
 ### Project Overview
@@ -153,10 +152,6 @@ After the data was prepared, I created the following visualizations using **Powe
 - **Total Orders over Time**
   - Highest number of orders are around midday i.e. between 12PM to 2PM.
   - The number of orders fluctuates throughout the day.
-    
-### Final Report 
-
-The finl report can be found in the files uploaded to this repository.
 
 ### Conclusion
 
